@@ -40,8 +40,14 @@ We need to work together as a community to keep Cubespace as free of vermin as p
 - If meeting in a room with a door, close it.
 - If you wish to speak with someone, walk over to them or consider using a chat program like Slack. 
 
-## Pets
-Cubespace cannot accommodate separate work areas for pet-owners and those with allergies or those that are otherwise uncomfortable with pets.  We prioritize the wellbeing of our staff and the work that they do in the office.  Those who wish to bring their dog to campus to participate in Libraries sanctioned dog related activities, for example, should make arrangements to work in another part of the Libraries those days.
+## Service, Therapy, and Companion Animals
+MIT values the physical and emotional health of its employees and students; and the libraries have committed to fostering a healthy environment for the community. Service animals, therapy animals, and companion animals contribute to the physical and emotional health of the MIT community, but may also be a source of discomfort to members of the community.  
+ 
+Service animals that support individuals with physical/intellectual/or behavioral disabilities must be allowed in all areas that are generally accessible to the MIT community; and MIT must also make any reasonable accommodations in restricted office spaces for employee service animals. Registered therapy animals provide emotional support to students, staff, and other members of the MIT community through initiatives sponsored by the Libraries, the Chancellor’s Office, MIT Medical and other MIT organizations: The presence of companion animals in public and in shared staff library spaces, in support of these events, and under the control of its handler (e.g. on leash/lead) should be welcomed unless they pose a health risk to identified staff or other members of the community. Companion animals, or “pets” provide informal emotional support to individuals in the community. Staff may bring companion animals to their private offices, unless the animals are unattended for long periods of time, or members of the community and staff are subject to more than minimal discomfort from their presence.  
+ 
+Staff members who bring animals to campus are responsible for any resulting damage or cleaning; for maintaining constant control of the animal in all public spaces; and for ensuring that animals in private spaces are regularly attended.
+ 
+Cubespace residents who plan to bring a therapy or companion animal into the communal areas or private offices should send e-mail to the cubespace-all reasonably in advance and should resolve any significant health or comfort (respectively) concern raised.
 
 ## Communal spaces
 These spaces contain shared resources, e.g. the microwave and refrigerator, but also represent an opportunity to share what we bring, e.g. baked goods; and to interact and collaborate.  Maintaining these spaces is a shared responsibility.

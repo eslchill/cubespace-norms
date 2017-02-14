@@ -80,4 +80,4 @@ Shared conference rooms are available for scheduled, and when possible, longer u
 Meetings larger than what will fit comfortably in the main conference room can be scheduled elsewhere. Options in building E25 include rooms 202 and 401. Anyone can reserve either of these rooms.  Click [here](http://web.mit.edu/vpr/reservations/index.html) to do so. 
 
 ## Raising Concerns
-We should each attempt to address issues/concerns via collegial conversation before they escalate to where a supervisor would need to intervene.  There is no special process for escalating office norms issues/concerns beyond what is in place for other issues or concerns - consult with your supervisor, Associate Director, and/or HR.
+We should each address issues/concerns via collegial conversation before asking a supervisor to intervene. There is no special process for escalating office norms issues/concerns beyond what is in place for other issues or concerns - consult with your supervisor, Associate Director, and/or HR.
